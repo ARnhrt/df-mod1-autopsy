@@ -1,5 +1,5 @@
 ## Notes
-
+Loose notetaking following the guidelines in Chapter 1.
 ### Questions
 - How did George’s manager acquire the disk?
   - Since Montgomery used a company laptop, hsi superiors have the right to investigate the device.
